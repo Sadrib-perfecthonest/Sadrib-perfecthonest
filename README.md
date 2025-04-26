@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Sadrib Shaiyan Islam</h1>
-<h3 align="center">🚀 Web Developer | Full Stack Developer | Flutter Enthusiast 🚀</h3>
+<h3 align="center">🚀 Web Developer | Full Stack Developer | Flutter Developer 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px" />
