@@ -21,7 +21,7 @@
 
 - 🚀 Developing Flutter apps with stunning UI/UX.
 - 🛠️ Full Stack Projects using **Node.js**, **MongoDB**, and **PostgreSQL**.
-- ☁️ Exploring cloud services and containerization tools like **Docker**.
+
 
 ---
 
