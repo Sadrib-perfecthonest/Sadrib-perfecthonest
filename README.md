@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Sadrib Shaiyan Islam</h1>
-<h3 align="center">🚀 Flutter Developer | Full Stack Developer | 
+<h3 align="center">🚀 App Developer(Flutter) | Entry Level Backend Developer(Nodejs,Typescript) | 
   WEB Developer 🚀</h3>
 
 <p align="center">
