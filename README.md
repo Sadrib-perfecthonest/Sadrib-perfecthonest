@@ -82,10 +82,4 @@
 
 ---
 
-## 📊 Visitor Count
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sadrib-perfecthonest/count.svg" alt="Visitor Count" />
-</p>
-
----
