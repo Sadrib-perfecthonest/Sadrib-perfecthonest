@@ -35,6 +35,7 @@
 ### 🧠 Backend
 - Node.js
 - Express.js
+- Typescript
 
 ### 🗄️ Databases
 - MongoDB
